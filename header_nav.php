@@ -69,6 +69,7 @@ if(!isset($_SESSION)) {
                             </div>
                         </li>
                         <li><a href="./danhgia.php">REVIEW</a></li>
+                        <li><a href="./thongtin.php">THÔNG TIN CÁ NHÂN</a></li>
                     </ul>
                 </nav>
             </div>
